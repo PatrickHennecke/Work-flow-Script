@@ -16,5 +16,5 @@ Downloads Miktek, R, and VS Code
 
 run this script with:
 
-## $DataScience_WorkFlow = Invoke-WebRequest https://github.com/PatrickHennecke/Work-flow-Script/master/workFlow.ps1
-## Invoke-Expression $($DataScience_WorkFlow.Content)
+### $DataScience_WorkFlow = Invoke-WebRequest https://github.com/PatrickHennecke/Work-flow-Script/master/workFlow.ps1
+### Invoke-Expression $($DataScience_WorkFlow.Content)
