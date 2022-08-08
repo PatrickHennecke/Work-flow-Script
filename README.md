@@ -12,7 +12,7 @@ Downloads Miniconda and
 
 Downloads Miktek, R, and VS Code
 
-# Warning, it's generally a bad idea to run some random persons script - so only do this if you understand the code
+# Warning, it's generally a bad idea to run some random person's script - so only do this if you understand the code
 
 run this script with:
 
