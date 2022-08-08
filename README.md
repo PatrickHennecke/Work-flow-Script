@@ -12,9 +12,9 @@ Downloads Miniconda and
 
 Downloads Miktek, R, and VS Code
 
-## Warning it's generally a bad idea to run some random persons script - so only do this if you understand the code
+# Warning, it's generally a bad idea to run some random persons script - so only do this if you understand the code
 
 run this script with:
 
-# $ScriptFromGitHub = Invoke-WebRequest https://github.com/PatrickHennecke/Work-flow-Script/master/workFlow.ps1
+## $ScriptFromGitHub = Invoke-WebRequest https://github.com/PatrickHennecke/Work-flow-Script/master/workFlow.ps1
 Invoke-Expression $($ScriptFromGitHub.Content)
